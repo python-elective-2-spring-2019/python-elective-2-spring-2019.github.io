@@ -10,7 +10,7 @@
     td:nth-child(1) {color: #3a7090; text-align:center}
   </style>
 </head>
-# Python Elective I Spring 2019
+# Python Elective II Spring 2019
 
 <!-- <div id="github"><a href="https://github.com/python-elective-2-spring-2019/">GitHub</a>
 </div> -->
@@ -200,10 +200,8 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 <script>
  var dates = [
 
-        {week : 1, date : '08-02'},
-
         {week : 2, date : '19-02'},
-        {week : 2, date : '22-02'}, 
+        {week : 2, date : '19-02'}, 
 
         {week : 2, date : '26-02'}, 
         {week : 2, date : '01-03'}, 
