@@ -31,48 +31,48 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
+        <a href="https://github.com/python-elective-2-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
     <td></td>
   </tr>
   
   <tr>  
       <td>1</td>
       <td>
-        <a href="https://github.com/python-elective-1-spring-2019/Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings</a></td>
+        <a href="https://github.com/python-elective-2-spring-2019/Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>2</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-03-Python-Types-simple-types-Lists-Tuples-and-Sorting/blob/master/README.md">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-03-Python-Types-simple-types-Lists-Tuples-and-Sorting/blob/master/README.md">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
       <td></td>
   </tr>
   
   <tr>    
       <td>2</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-04-Dictionary-Sets-Reading-and-Writing-Files/blob/master/README.md">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-04-Dictionary-Sets-Reading-and-Writing-Files/blob/master/README.md">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>3</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a></td>
       <td></td>
   </tr>  
   
   <tr>    
       <td>3</td> 
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>     
       <td>4</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>
       <td>4</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Required reading Exercise</a></td>
       <td></td>
   </tr>
     <tr>   
