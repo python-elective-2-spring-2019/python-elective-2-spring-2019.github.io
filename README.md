@@ -31,15 +31,10 @@
   <tr>
       <td>1</td>
       <td>    
-        <a href="https://github.com/python-elective-2-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/README.md">Lesson 1: Introduction to the Python elective</a></td>
+        <a href="https://github.com/python-elective-2-spring-2019/Lesson-01-Introduction-to-the-Python-elective/blob/master/README.md">Lesson 1: Introduction to the Python elective</a><br>
+        <a href="https://github.com/python-elective-2-spring-2019/Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings</a>
+        </td>
     <td></td>
-  </tr>
-  
-  <tr>  
-      <td>1</td>
-      <td>
-        <a href="https://github.com/python-elective-2-spring-2019/Lesson-02-Introduction-to-Python-and-Python-Strings/blob/master/README.md">Lesson 2: Introduction to Python and Python Strings</a></td>
-      <td></td>
   </tr>
   
   <tr>
@@ -200,51 +195,36 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 <script>
  var dates = [
 
-        {week : 2, date : '19-02'},
-        {week : 2, date : '19-02'}, 
+        {week : 1, date : '19-02'}, 
 
-        {week : 2, date : '26-02'}, 
-        {week : 2, date : '01-03'}, 
+        {week : 2, date : '26-02'},  
 
         {week : 3, date : '05-03'}, 
-        {week : 3, date : '08-03'},
 
         {week : 4, date : '12-03'}, 
-        {week : 4, date : '15-03'},
 
         {week : 5, date : '19-03'}, 
-        {week : 5, date : '22-03'}, 
 
         {week : 6, date : '26-03'}, 
-        {week : 6, date : '29-03'}, 
 
         {week : 7, date : '02-04'}, 
-        {week : 7, date : '05-04'},
 
         {week : 8, date : '09-04'},
-        {week : 8, date : '12-04'},
 
         // week 9 Easter
         {week : 9, date : '23-04'},        
-        {week : 9, date : '26-04'},
 
         {week : 10, date : '30-04'},
-        {week : 10, date : '03-05'},
 
         {week : 11, date : '07-05'},
-        {week : 11, date : '10-05'},
 
         {week : 12, date : '14-05'},
-        {week : 12, date : '17-05'}, // st. bededag
 
         {week : 13, date : '21-05'},
-        {week : 13, date : '24-05'},
 
         {week : 14, date : '28-05'},
-        {week : 14, date : '31-05'},
-
+        
         {week : 15, date : '04-06'},
-        {week : 15, date : '07-06'}
 
     ]; 
   
