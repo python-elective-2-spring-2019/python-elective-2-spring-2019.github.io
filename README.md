@@ -12,11 +12,11 @@
 </head>
 # Python Elective I Spring 2019
 
-<!-- <div id="github"><a href="https://github.com/python-elective-1-spring-2019/">GitHub</a>
+<!-- <div id="github"><a href="https://github.com/python-elective-2-spring-2019/">GitHub</a>
 </div> -->
 
 <div id="teachings">
-  Teachings: <br> Tuesdays: 08:30 - 11:00<br>Fridays: 08:30 - 11:00<br> 
+  Teachings: <br> Tuesdays: 11:00 - 16:30<br> 
 </div>
 
 <table id="tbl">
