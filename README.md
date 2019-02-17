@@ -71,15 +71,14 @@
     
   <tr> 
       <td>6</td>
-      <td><a href="">Lesson 11: Classes, OOP, Generators, </a><br>
-      <a href="">Recursion, Searching, Sorting, Merging Algorithms</a>
+      <td><a href="">Lesson 11: Classes, OOP, Generators, </a>
       </td>
       <td></td>
   </tr>
   
   <tr>  
       <td>7</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">Recursion, Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
 
