@@ -39,65 +39,45 @@
   
   <tr>
       <td>2</td>
-      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-03-Python-Types-simple-types-Lists-Tuples-and-Sorting/blob/master/README.md">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a></td>
-      <td></td>
-  </tr>
-  
-  <tr>    
-      <td>2</td>
-      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-04-Dictionary-Sets-Reading-and-Writing-Files/blob/master/README.md">Lesson 4: Dictionary, Sets, Reading and Writing Files</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-03-Python-Types-simple-types-Lists-Tuples-and-Sorting/blob/master/README.md">Lesson 3: Python Types, simple types, Lists, Tuples and Sorting, Functions</a><br>
+      <a href="https://github.com/python-elective-2-spring-2019/Lesson-04-Dictionary-Sets-Reading-and-Writing-Files/blob/master/README.md">Lesson 4: Dictionary, Sets, Reading and Writing Files</a>
+      </td>
       <td></td>
   </tr>
   
   <tr>
       <td>3</td>
-      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a><br>
+      <a href="https://github.com/python-elective-2-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and Required reading Exercise</a>
+      </td>
       <td></td>
   </tr>  
   
-  <tr>    
-      <td>3</td> 
-      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and Required reading Exercise</a></td>
-      <td></td>
-  </tr>
-    <tr>     
+<tr>     
       <td>4</td>
-      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Required reading Exercise</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Required reading Exercise</a><br>
+      <a href="https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Required reading Exercise</a>
+      </td>
       <td></td>
   </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Required reading Exercise</a></td>
-      <td></td>
-  </tr>
+
     <tr>   
       <td>5</td>
-      <td><a href="">Lesson 9: Unit Tests</a></td>
+      <td><a href="">Lesson 9: Unit Tests</a><br>
+      <a href="">Lesson 10: Classes, OOP, Virtual Environments and Packages</a>
+      </td>
       <td></td>
   </tr>
-    <tr>  
-      <td>5</td>
-      <td><a href="">Lesson 10: Classes, OOP, Virtual Environments and Packages</a></td>
-      <td></td>
-  </tr>
+    
   <tr> 
       <td>6</td>
-      <td><a href="">Lesson 11: Classes, OOP, Generators, </a></td>
-      <td></td>
-  </tr>
-  <tr>      
-      <td>6</td>
-      <td><a href="">Recursion, Searching, Sorting, Merging Algorithms</a></td>
+      <td><a href="">Lesson 11: Classes, OOP, Generators, </a><br>
+      <a href="">Recursion, Searching, Sorting, Merging Algorithms</a>
+      </td>
       <td></td>
   </tr>
   
   <tr>  
-      <td>7</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
-      <td></td>
-  </tr>
-  
-  <tr> 
       <td>7</td>
       <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
@@ -108,72 +88,45 @@
       <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
       <td></td>
   </tr>
-  
-  <tr> 
-      <td>8</td>
-      <td><a href="">Searching, Sorting, Merging Algorithms</a></td>
-      <td></td>
-  </tr>
+
   <tr >
       <td>9</td>
       <td style="background-color: #3a7090; color:#fff">Easter Holliday</td>
       <td style="background-color: #3a7090; color:#fff"></td>
   </tr>
-  <tr >
-      <td>9</td>
-      <td style="background-color: #3a7090; color:#fff">Easter Holliday</td>
-      <td style="background-color: #3a7090; color:#fff"></td>
-  </tr>
+
   <tr> 
       <td>10</td>
       <td><a href="">Threads, Sockets & Chat Server</a></td>
       <td></td>
   </tr>
-  <tr>
-      <td>10</td>
-      <td><a href="">Sockets & Chat Server</a></td>
-      <td></td>
-  </tr>
+ 
   <tr>
       <td>11</td>
-      <td><a href="">JSON, Datetime, CSV files</a></td>
+      <td><a href="">JSON, Datetime, CSV files</a><br>
+      <a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a>
+      </td>
       <td></td>
   </tr>
-  <tr>
-      <td>11</td>
-      <td><a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a></td>
-      <td></td>
-  </tr>
+  
   <tr>
       <td>12</td>
       <td><a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a></td>
       <td></td>
   </tr>
-  <tr>
-      <td>12</td>
-      <td style="background-color: #3a7090; color:#fff">No Teachings - St. Bededag</td>
-      <td style="background-color: #3a7090; color:#fff"></td>
-  </tr>
+
   <tr>
       <td>13</td>
       <td><a href="">Test Exam</a></td>
       <td></td>
   </tr>
-  <tr>
-      <td>13</td>
-      <td><a href="">Test Exam</a></td>
-      <td></td>
-  </tr>
+  
   <tr>
       <td>14</td>
       <td><a href="">Evaluation & Recap</a></td>
       <td></td>
   </tr>
-  <tr>
-      <td>14</td>
-      <td><a href="">Test Exam II</a></td>
-      <td></td>
-  </tr>
+  
   <tr>    
       <td>15</td>
       <td><a href="">Test Exam II</a></td>
@@ -211,6 +164,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
         {week : 8, date : '09-04'},
 
+         {week : 15, date : '12-04'},
         // week 9 Easter
         {week : 9, date : '23-04'},        
 
@@ -223,8 +177,10 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 13, date : '21-05'},
 
         {week : 14, date : '28-05'},
-        
+
         {week : 15, date : '04-06'},
+
+       
 
     ]; 
   
