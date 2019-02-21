@@ -48,15 +48,15 @@
   <tr>
       <td>3</td>
       <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-05-Python-Utilities-and-Modules/blob/master/README.md">Lesson 5: Python Utilities and Modules</a><br>
-      <a href="https://github.com/python-elective-2-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and Required reading Exercise</a>
+      <a href="https://github.com/python-elective-2-spring-2019/Lesson-06-Git-Markdown-and-Required-reading-Exercise/blob/master/README.md">Lesson 6: Git, Markdown and the Mandatory "Required reading Exercise"</a>
       </td>
       <td></td>
   </tr>  
   
 <tr>     
       <td>4</td>
-      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Required reading Exercise</a><br>
-      <a href="https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Required reading Exercise</a>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Mandatory "Required reading Exercise"</a><br>
+      <a href="https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 7: Mandatory "Required reading Exercise"</a>
       </td>
       <td></td>
   </tr>
