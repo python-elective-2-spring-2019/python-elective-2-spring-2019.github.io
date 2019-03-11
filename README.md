@@ -56,7 +56,7 @@
 <tr>     
       <td>4</td>
       <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/blob/master/README.md">Lesson 7: Mandatory "Required reading Exercise"</a><br>
-      <a href="https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 7: Mandatory "Required reading Exercise"</a>
+      <a href="https://github.com/python-elective-2-spring-2019/Lesson-08-Required-reading-Exercise/blob/master/README.md">Lesson 8: Mandatory "Required reading Exercise - Presentation & Evaluation"</a>
       </td>
       <td></td>
   </tr>
