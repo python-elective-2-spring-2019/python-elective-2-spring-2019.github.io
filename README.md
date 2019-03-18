@@ -61,13 +61,13 @@
       <td></td>
   </tr>
 
-    <tr>   
+<tr>   
       <td>5</td>
-      <td><a href="">Lesson 9: Unit Tests</a><br>
-      <a href="">Lesson 10: Classes, OOP, Virtual Environments and Packages</a>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-09-Classes-OOP-Virtual-Environments-and-Packages">Lesson 9: Classes OOP, Virtual Environments</a><br>
+      <a href="https://github.com/python-elective-2-spring-2019/Lesson-10-oop-ducktyping-decorators-abc">Lesson-10-oop-ducktyping-decorators-abc</a>
       </td>
       <td></td>
-  </tr>
+</tr>
     
   <tr> 
       <td>6</td>
