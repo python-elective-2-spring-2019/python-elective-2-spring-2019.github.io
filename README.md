@@ -111,9 +111,9 @@
 
   <tr>
       <td>11</td>
-      <td style="background-color: #3a0010; color:#fff"><a href="https://github.com/python-elective-2-spring-2019/Mandatory_assignment_2/blob/master/README.md">Mandatory Assignment II - Handin on Fronter</a>
+      <td style="background-color: #3a7090; color:#fff"><a href="https://github.com/python-elective-2-spring-2019/Mandatory_assignment_2/blob/master/README.md">Mandatory Assignment II - Handin on Fronter</a>
       </td>
-      <td></td>
+      <td style="background-color: #3a7090; color:#fff"></td>
   </tr>
   
   <tr>
