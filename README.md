@@ -71,7 +71,9 @@
     
   <tr> 
       <td>6</td>
-      <td><a href="">Lesson 11: Classes, OOP, Generators, </a>
+      <td><a href="">Lesson 11: Unit Test</a>
+      </td>
+      <td><a href="">Lesson 12: Unit Test</a>
       </td>
       <td></td>
   </tr>
