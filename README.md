@@ -177,7 +177,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
         {week : 10, date : '30-04'},
 
-        {week : mandatoty, date : '01-05'},
+        {week : 10, date : '01-05'},
 
         {week : 11, date : '07-05'},
 
