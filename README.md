@@ -108,6 +108,13 @@
       </td>
       <td></td>
   </tr>
+
+  <tr>
+      <td>11</td>
+      <td style="background-color: #3a0010; color:#fff"><a href="https://github.com/python-elective-2-spring-2019/Mandatory_assignment_2/blob/master/README.md">Mandatory Assignment II - Handin on Fronter</a>
+      </td>
+      <td></td>
+  </tr>
   
   <tr>
       <td>12</td>
@@ -169,6 +176,8 @@ __Teacher: Claus Bové (clbo@kea.dk)__
         {week : 9, date : '23-04'},        
 
         {week : 10, date : '30-04'},
+
+        {week : mandatoty, date : '01-05'},
 
         {week : 11, date : '07-05'},
 
