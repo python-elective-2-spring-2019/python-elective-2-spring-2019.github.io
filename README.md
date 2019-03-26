@@ -71,7 +71,7 @@
     
   <tr> 
       <td>6</td>
-      <td><a href="">Lesson 11: Unit Test</a><br>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-11-Unit-Test">Lesson 11: Unit Test</a><br>
       <a href="">Lesson 12: Test driven development (TDD)</a></td>
       <td></td>
       <td></td>
