@@ -171,7 +171,7 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
         {week : 8, date : '09-04'},
 
-         {week : 15, date : '12-04'},
+         {week : 15, date : '16-04'},
         // week 9 Easter
         {week : 9, date : '23-04'},        
 
