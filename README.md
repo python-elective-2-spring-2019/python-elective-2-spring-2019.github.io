@@ -16,7 +16,7 @@
 </div> -->
 
 <div id="teachings">
-  Teachings: <br> Tuesdays: 11:00 - 16:30<br> 
+  Teachings: <br> Tuesdays: 11:45 - 16:30<br> 
 </div>
 
 <table id="tbl">
@@ -97,7 +97,7 @@
 
   <tr> 
       <td>10</td>
-      <td><a href="">Threads, Sockets & Chat Server</a></td>
+      <td><a href="">Lesson 17: Python Tips and Tricks</a></td>
       <td></td>
   </tr>
  
