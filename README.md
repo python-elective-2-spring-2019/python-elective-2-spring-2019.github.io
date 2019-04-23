@@ -97,14 +97,14 @@
 
   <tr> 
       <td>10</td>
-      <td><a href="">Lesson 17: Python Tips and Tricks</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/Lesson-17-Python-Tips-and-Tricks">Lesson 17: Python Tips and Tricks</a></td>
       <td></td>
   </tr>
  
   <tr>
       <td>11</td>
-      <td><a href="">JSON, Datetime, CSV files</a><br>
-      <a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a>
+      <td>
+      <a href="">Functions, Map, Filter, Reduce, Decorators, Context Managers, Generator expressions, Python Protocols</a>
       </td>
       <td></td>
   </tr>
@@ -118,30 +118,35 @@
   
   <tr>
       <td>12</td>
-      <td><a href="">Functions, Map, Filter, Reduce, decorators, Lambda, List Comprehensions, Generator expressions</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
 
   <tr>
       <td>13</td>
-      <td><a href="">Test Exam</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
   <tr>
       <td>14</td>
-      <td><a href="">Evaluation & Recap</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
   
   <tr>    
       <td>15</td>
-      <td><a href="">Test Exam II</a></td>
+      <td><a href="">Exam Project</a></td>
       <td></td>
   </tr>
   <tr>
       <td>15</td>
-      <td><a href="">Evaluation II & Recap</a></td>
+      <td><a href="">Exam Project</a></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td></td>
+      <td><a href="">A few days before the exam - Recap</a></td>
       <td></td>
   </tr>
 
