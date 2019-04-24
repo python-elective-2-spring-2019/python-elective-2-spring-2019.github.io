@@ -104,7 +104,7 @@
   <tr>
       <td>11</td>
       <td>
-      <a href="">Functions, Map, Filter, Reduce, Decorators, Context Managers, Generator expressions, Python Protocols</a>
+      <a href="">Lesson 18: Python Tips and Tricks II</a>
       </td>
       <td></td>
   </tr>
@@ -146,7 +146,7 @@
   </tr>
   <tr>
       <td></td>
-      <td><a href="">A few days before the exam - Recap</a></td>
+      <td><a href=""></a></td>
       <td></td>
   </tr>
 
