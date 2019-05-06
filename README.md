@@ -133,28 +133,28 @@
   
   <tr>
       <td>14</td>
-      <td><a href="">Exam Project</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/exam">Exam Project</a></td>
       <td></td>
   </tr>
   
   <tr>    
       <td>15</td>
-      <td><a href="">Exam Project</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/exam">Exam Project</a></td>
       <td></td>
   </tr>
   <tr>
       <td>15</td>
-      <td><a href="">Exam</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/exam">Exam</a></td>
       <td></td>
   </tr>
   <tr>
       <td></td>
-      <td><a href="">Exam</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/exam">Exam</a></td>
       <td></td>
   </tr>
   <tr>
       <td></td>
-      <td><a href="">Exam</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/exam">Exam</a></td>
       <td></td>
   </tr>
   </tbody>
