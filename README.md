@@ -115,14 +115,17 @@
       </td>
       <td style="background-color: #3a7090; color:#fff"></td>
   </tr>
-  
-  <tr>
-      <td>12</td>
-      <td><a href=""></a></td>
+ 
+
+   <tr>
+      <td>11</td>
+      <td><a href="https://github.com/python-elective-1-spring-2019/lesson-19-property-protocols-arg-in-generator">lesson 19: protocols, @property, arg for the decorator</a><br><a href="https://github.com/python-elective-1-spring-2019/Lesson-20-generators-generator-expression">Lesson 20: Generators</a></td>
       <td></td>
   </tr>
 
-  <tr>
+
+ 
+   <tr>
       <td>13</td>
       <td><a href=""></a></td>
       <td></td>
