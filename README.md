@@ -119,7 +119,7 @@
 
    <tr>
       <td>11</td>
-      <td><a href="https://github.com/python-elective-1-spring-2019/lesson-19-property-protocols-arg-in-generator">lesson 19: protocols, @property, arg for the decorator</a><br><a href="https://github.com/python-elective-1-spring-2019/Lesson-20-generators-generator-expression">Lesson 20: Generators</a></td>
+      <td><a href="https://github.com/python-elective-2-spring-2019/lesson-19-property-protocols-arg-in-generator">Lesson 19: protocols, @property, arg for the decorator</a><br><a href="https://github.com/python-elective-2-spring-2019/Lesson-20-generators-generator-expression">Lesson 20: Generators</a></td>
       <td></td>
   </tr>
 
@@ -133,7 +133,7 @@
   
   <tr>
       <td>14</td>
-      <td><a href=""></a></td>
+      <td><a href="">Exam Project</a></td>
       <td></td>
   </tr>
   
@@ -144,15 +144,19 @@
   </tr>
   <tr>
       <td>15</td>
-      <td><a href="">Exam Project</a></td>
+      <td><a href="">Exam</a></td>
       <td></td>
   </tr>
   <tr>
       <td></td>
-      <td><a href=""></a></td>
+      <td><a href="">Exam</a></td>
       <td></td>
   </tr>
-
+  <tr>
+      <td></td>
+      <td><a href="">Exam</a></td>
+      <td></td>
+  </tr>
   </tbody>
 </table>
             
@@ -195,9 +199,11 @@ __Teacher: Claus Bové (clbo@kea.dk)__
 
         {week : 14, date : '28-05'},
 
-        {week : 15, date : '04-06'},
+        {week : 15, date : '19-06'},
 
+        {week : 15, date : '20-06'},
        
+        {week : 15, date : '21-06'}
 
     ]; 
   
